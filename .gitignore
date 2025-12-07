@@ -1,0 +1,6 @@
+﻿node_modules/
+.env
+workspaces/
+previews/
+*.log
+.DS_Store
